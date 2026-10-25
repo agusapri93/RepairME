@@ -8,6 +8,48 @@
       "when": 1792870074263,
       "tag": "0000_worried_storm",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1792871851487,
+      "tag": "0001_drop_customers",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1792871887333,
+      "tag": "0002_asset_management",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1792872951858,
+      "tag": "0003_asset_categories",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1792872976938,
+      "tag": "0004_drop_asset_code_category",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1792909763095,
+      "tag": "0005_buildings_rooms",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1792909787866,
+      "tag": "0006_drop_asset_location",
+      "breakpoints": true
     }
   ]
 }
